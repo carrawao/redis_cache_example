@@ -1,0 +1,8 @@
+com/redis/rosebowl/service/RoseBowlService.class
+com/redis/rosebowl/entity/RedisCacheClient.class
+com/redis/rosebowl/service/RoseBowlServiceImpl.class
+com/redis/rosebowl/entity/RoseBowl.class
+com/redis/rosebowl/ReactAndSpringDataRestApplication.class
+com/redis/rosebowl/repository/RoseBowlRepository.class
+com/redis/rosebowl/controller/RoseBowlController.class
+com/redis/rosebowl/Redis.class
